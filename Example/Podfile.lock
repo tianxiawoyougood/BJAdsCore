@@ -1,0 +1,16 @@
+PODS:
+  - BJAdsCore (0.1.0)
+
+DEPENDENCIES:
+  - BJAdsCore (from `../`)
+
+EXTERNAL SOURCES:
+  BJAdsCore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BJAdsCore: 36de0f92c1930d12ee95bfd61783ac04998bbf58
+
+PODFILE CHECKSUM: bc4c36f639db8f89ac1c84a9482318c092295e6a
+
+COCOAPODS: 1.14.3

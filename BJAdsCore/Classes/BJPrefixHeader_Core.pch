@@ -1,0 +1,13 @@
+//
+//  BJPrefixHeader_Core.pch
+//  BJAdsCore
+//
+//  Created by cc on 2022/3/28.
+//
+
+#ifndef BJPrefixHeader_Core_pch
+#define BJPrefixHeader_Core_pch
+
+#import "BJAdsCore.h"
+
+#endif /* BJPrefixHeader_Core_pch */

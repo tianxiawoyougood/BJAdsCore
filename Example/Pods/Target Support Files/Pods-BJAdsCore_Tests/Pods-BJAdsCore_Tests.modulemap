@@ -1,0 +1,6 @@
+framework module Pods_BJAdsCore_Tests {
+  umbrella header "Pods-BJAdsCore_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
